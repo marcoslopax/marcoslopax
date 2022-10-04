@@ -1,4 +1,4 @@
-package marcos.lopax;
+package marcos.lopes;
 
 public class Me {
 
